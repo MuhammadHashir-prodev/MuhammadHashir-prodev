@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Muhammad Hashir 👋
 
-<!--
-**MuhammadHashir-prodev/MuhammadHashir-prodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer
 
-Here are some ideas to get you started:
+Interested in Software Development, Web Development, and Artificial Intelligence & Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+
+- 💻 Interested in Software Development.
+- 🌐 Exploring Web Development.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🐍 Currently learning Python.
+- 📚 Developing my programming and problem-solving skills.
+
+
+## Technologies & Tools
+
+- **Programming Languages:** C and Python
+- **Version Control:** Git
+- **Code Hosting:** GitHub
+- **Code Editor:** Visual Studio Code
