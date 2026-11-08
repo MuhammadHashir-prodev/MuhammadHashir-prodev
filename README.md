@@ -2,7 +2,7 @@
 
 ### Aspiring Software Developer
 
-Interested in Software Development, Web Development, and Artificial Intelligence & Machine Learning.
+Interested in Software Development and Artificial Intelligence & Machine Learning.
 
 
 ## About Me
