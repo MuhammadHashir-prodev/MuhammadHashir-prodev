@@ -20,3 +20,10 @@ Interested in Software Development, Web Development, and Artificial Intelligence
 - **Version Control:** Git
 - **Code Hosting:** GitHub
 - **Code Editor:** Visual Studio Code
+
+
+## My LinkedIn Profile
+
+Connect with me on LinkedIn:
+
+➡️ [Visit My LinkedIn Profile](https://www.linkedin.com/in/MuhammadHashir-prodev)
