@@ -8,10 +8,10 @@ Interested in Software Development, Web Development, and Artificial Intelligence
 ## About Me
 
 - 💻 Interested in Software Development.
-- 🌐 Exploring Web Development.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
 - 🐍 Currently learning Python.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
 - 📚 Developing my programming and problem-solving skills.
+- 🌐 Exploring Web Development.
 
 
 ## Technologies & Tools
